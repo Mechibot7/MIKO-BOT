@@ -14,7 +14,7 @@ userbot = {
    eror: "Sepertinya Erorr",
    waits: "Sedang di proses",
    butmag: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTHDLrd0_DwHnJfuZ_pRMOAbLi3-ot-NxyPA&usqp=CAU', // buat Image Button
-   packname: 'MikoBot',
+   packname: 'Mikey',
    author: 'github.com/Kotzyy',
     setting: {
     admin: "only admin",
