@@ -1,6 +1,6 @@
 {
   "name": "Miko-Bot",
-  "version": "1.0.0",
+  "version": "1.8.1",
   "description": "WhatsApp Bot Ringan",
   "main": "index.js",
   "scripts": {
@@ -19,7 +19,7 @@
     "url": "https://github.com/Kotzyy/MIKO-BOT/issues"
   },
   "dependencies": {
-    "@adiwajshing/baileys": "^3.5.2",
+    "@adiwajshing/baileys": "^3.5.3",
     "awesome-phonenumber": "^2.64.0",
     "axios": "^0.23.0",
     "brainly-scraper": "^1.0.3",
